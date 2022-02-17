@@ -2,3 +2,9 @@
 CoCi MooC SUMO scenarios
 
 This repository stores the scenarios covered by the video lectures Do-It-Yourself for the CoCi MooC.
+
+## Scenario_01
+Basic scenario for running a simple SUMO simulation.
+The simulated area corresponds to the core of the city of Barcelona (Eixample district) with network created based on OSM data.
+Routes are estimated from Activitygen based on sociodemographic data of the simulated area.
+For execution it is needed only to run the bash file *scenario_001.sh*
