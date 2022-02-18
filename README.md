@@ -13,3 +13,11 @@ For execution it is needed only to run the bash file *scenario_001.sh*
 Set of 4 different networks for comparing alternative scenarios as an extended A/B testing.
 These 4 networks are abstractions and simplifications of an area of 9x9 blocks of the Eixample district of Barcelona, which is equivalent roughly to 1.44km<sup>2</sup>. outes are estimated from Activitygen based on sociodemographic data of the simulated area.
 Each alternative needs to be run separately for obtaining the results. A script is provided for visualization and comparison of results.
+
+## Requirements
+For running these simulations, **SUMO** framewok needs to be installed: https://sumo.dlr.de/docs/index.html
+
+Additionally, the following tools are needed:
+- Bash shell
+- Python 3.x (libraries: numpy, pandas, matplotlib)
+- Jupyter Notebook for visualization

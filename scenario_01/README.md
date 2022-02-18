@@ -8,7 +8,7 @@ Basic scenario for running a simple SUMO simulation.
 The simulated area corresponds to the core of the city of Barcelona (Eixample district) with network created based on OSM data.
 Routes are estimated from Activitygen based on sociodemographic data of the simulated area.
 
-For execution it is needed only to run the bash file *scenario_001.sh*
+For execution it is needed only to run the bash file **scenario_001.sh**.
 
 ### Description of files
 
@@ -16,6 +16,6 @@ For execution it is needed only to run the bash file *scenario_001.sh*
 
 - **core_001.net.xml**: Network. Map of roads, intersections and connectivity rules as the simulation environments. Source: Open Street Map
 
-- **scenario_001.sh**: Bash file for executation
+- **scenario_001.sh**: Bash file for execution
 
 - **vehtype.xml**: additional configuration file for specifying the type of vehicle.
