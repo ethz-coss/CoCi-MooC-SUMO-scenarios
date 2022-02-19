@@ -10,9 +10,9 @@ Each alternative needs to be run separately for obtaining the results. A script 
 
 ![nets scenario 2](scenario_02_x4.png)
 
-<p align = "center">
-Scenario 2. Top left: alternative 1, baseline, regular grid. Top right: alternative 2, 2x2 superblocks pattern, based on original Cerdá's plan for Barcelona. Bottom left: alternative 3, 3x3 superblocks pattern, based on existing plan for Barcelona (Rueda, S. 2018). Bottom right: alternative 4, regular grid with a diagonal avenue, closer to the actual layout currently found in the city.
-</p>
+<p align = "center"><i>
+<b>Net for Scenario 2.</b> Top left: alternative 1, baseline, regular grid. Top right: alternative 2, 2x2 superblocks pattern, based on original Cerdá's plan for Barcelona. Bottom left: alternative 3, 3x3 superblocks pattern, based on existing plan for Barcelona (Rueda, S. 2018). Bottom right: alternative 4, regular grid with a diagonal avenue, closer to the actual layout currently found in the city.
+</i></p>
 
 ### Description of files
 

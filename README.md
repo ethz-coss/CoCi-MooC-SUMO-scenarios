@@ -11,9 +11,9 @@ For execution it is needed only to run the bash file *scenario_001.sh*
 
 ![net scenario 1](scenario_01/core_001.PNG)
 
-<p align = "center">
-Net for Scenario 1. Section of the core of the city of the Barcelona, centered in the Eixample district.
-</p>
+<p align = "center"><i>
+<b>Net for Scenario 1.</b> Section of the core of the city of the Barcelona, centered in the Eixample district.
+</i></p>
 
 ## Scenario_02
 Set of 4 different networks for comparing alternative scenarios as an extended A/B testing.
@@ -22,9 +22,9 @@ Each alternative needs to be run separately for obtaining the results. A script 
 
 ![nets scenario 2](scenario_02/scenario_02_x4.png)
 
-<p align = "center">
-Net for Scenario 2. Top left: alternative 1, baseline, regular grid. Top right: alternative 2, 2x2 superblocks pattern, based on original Cerdá's plan for Barcelona. Bottom left: alternative 3, 3x3 superblocks pattern, based on existing plan for Barcelona (Rueda, S. 2018). Bottom right: alternative 4, regular grid with a diagonal avenue, closer to the actual layout currently found in the city.
-</p>
+<p align = "center"><i>
+<b>Net for Scenario 2.</b> Top left: alternative 1, baseline, regular grid. Top right: alternative 2, 2x2 superblocks pattern, based on original Cerdá's plan for Barcelona. Bottom left: alternative 3, 3x3 superblocks pattern, based on existing plan for Barcelona (Rueda, S. 2018). Bottom right: alternative 4, regular grid with a diagonal avenue, closer to the actual layout currently found in the city.
+</i></p>
 
 ## Requirements
 For running these simulations, **SUMO** framewok needs to be installed: https://sumo.dlr.de/docs/index.html
