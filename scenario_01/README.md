@@ -8,7 +8,11 @@ Basic scenario for running a simple SUMO simulation.
 The simulated area corresponds to the core of the city of Barcelona (Eixample district) with network created based on OSM data.
 Routes are estimated from Activitygen based on sociodemographic data of the simulated area.
 
-![net scenario 1](scenario_01/core_001.PNG)
+![net scenario 1](core_001.PNG)
+
+<p align = "center">
+Net for Scenario 1. Section of the core of the city of the Barcelona, centered in the Eixample district.
+</p>
 
 For execution it is needed only to run the bash file **scenario_001.sh**.
 
