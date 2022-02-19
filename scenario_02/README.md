@@ -8,6 +8,8 @@ Set of 4 different networks for comparing alternative scenarios as an extended A
 These 4 networks are abstractions and simplifications of an area of 9x9 blocks of the Eixample district of Barcelona, which is equivalent roughly to 1.44km<sup>2</sup>. outes are estimated from Activitygen based on sociodemographic data of the simulated area.
 Each alternative needs to be run separately for obtaining the results. A script is provided for visualization and comparison of results.
 
+![nets scenario 2](scenario_02/scenario_02_x4.png)
+
 ### Description of files
 
 For each of the four alternatives (*net01*, *net02*, *net03*, and *net04*) the files structure is the same :
