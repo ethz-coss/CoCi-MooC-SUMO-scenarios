@@ -22,6 +22,6 @@ For execution it is needed only to run the bash file **scenario_001.sh**.
 
 - **core_001.net.xml**: Network. Map of roads, intersections and connectivity rules as the simulation environments. Source: Open Street Map
 
-- **scenario_001.sh**: Bash file for execution
+- **scenario_001.sh**: Bash file for execution. It launches [sumo-gui](https://sumo.dlr.de/docs/sumo-gui.html) for visualizing the simulation in a graphic interface. It allows as well to display some statistics while the simulation is running.
 
 - **vehtype.xml**: additional configuration file for specifying the type of vehicle.
