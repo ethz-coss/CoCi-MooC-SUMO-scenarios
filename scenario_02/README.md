@@ -20,7 +20,7 @@ For each of the four alternatives (*net01*, *net02*, *net03*, and *net04*) the f
 
 - **run_simu_net0x.sh**: Bash file for executing Python script
 
-- **simu_net0x.py**: Python script for simulation.
+- **simu_net0x.py**: Python script for simulation. Running without graphic interface for better performance.
 
 - **data/activitygen-bcn_xx.rou.xml**: Routes file specifying origin, destination and departure time for each vehicle (agent) in the simulation from activitygen script based on sociodemographic data.
 
