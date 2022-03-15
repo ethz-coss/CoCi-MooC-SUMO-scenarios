@@ -30,6 +30,6 @@ Each alternative needs to be run separately for obtaining the results. A script 
 For running these simulations, **SUMO** framewok needs to be installed: https://sumo.dlr.de/docs/index.html
 
 Additionally, the following tools are needed:
-- Bash shell
-- Python 3.x (libraries: numpy, pandas, matplotlib)
-- Jupyter Notebook for visualization
+- Bash shell.
+- Python 3.x (libraries: numpy, pandas, matplotlib).
+- Jupyter Notebook for visualization (in scenario 2).
